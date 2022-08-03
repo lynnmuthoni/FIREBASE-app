@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063002839778",
+    "project_id": "firefox-morning-fb-app",
+    "storage_bucket": "firefox-morning-fb-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063002839778:android:1e6c6922fb341d885f9cbb",
+        "android_client_info": {
+          "package_name": "com.king.morningfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063002839778-i2vpdpfgvdeaofk6o14dnsrk8kg1p7vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbqMSWlPoRfhe6RwT9pPL0444b0w804g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063002839778-i2vpdpfgvdeaofk6o14dnsrk8kg1p7vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
